@@ -1,0 +1,7 @@
+.vscode/
+/node_modules/
+lib
+es
+/coverage/
+npm-debug.log
+yarn-error.log
